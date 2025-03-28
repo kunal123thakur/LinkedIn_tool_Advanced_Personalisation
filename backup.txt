@@ -1,0 +1,308 @@
+[
+	{
+		"text": "Just saw a LinkedIn Influencer with 'Organic Growth' written in the profile with 65K+ followers claiming that he can help you in growing your platform, copying the posts from other influencers.",
+		"engagement": 90
+	},
+	{	
+		"text": "Jobseekers, this one’s for you.\n Every application, every interview, every follow-up… the pressure is immense.\n And I know what you're thinking: Am I not good enough? \n But let me tell you, this isn’t about you or your skills. It’s about a broken system where 60% of applicants never hear back. \n Your mental health is not worth sacrificing for a system that doesn’t acknowledge your worth. \n Please remember, taking care of yourself is the real priority. \n Your dream job will come, but for now, breathe. 🌻",
+		"engagement": 347
+	},
+	{
+		"text": "Looking for jobs on LinkedIn is like online dating: Full of promises, but in the end, you’re just left ghosted.",
+		"engagement": 109
+	},
+	{
+		"text": "LinkedIn scams be like: 'Congratulations, you've been selected for a role you didn’t even apply for!' \n The catch? Pay Rs. 50,000 for the honor.",
+		"engagement": 115
+	},
+	{
+		"text": "sapne dekhna achi baat hai,\nlekin job ka sapna dekh ke 'interested' likhna,\nyeh toh achi baat nahi hai na?",
+		"engagement": 545
+	},
+	{
+		"text": "Next time when I'll be reading some LinkedIn Influencer's story, I am starting from the last line.\nIf there's a link attached to it, it's most probably a fake one.\nSaves me time!",
+		"engagement": 188
+	},
+	{
+		"text": "Every time I poured my heart into 5-6 rounds of interviews and faced rejection, it felt like a punch in the gut. The sleepless nights, the endless preparation, all for nothing.\n\nBut looking back, I realize it wasn’t nothing. It was the Universe’s way of saying, “Not this one, something better is on the way.”\n\nEvery single time, I’ve been shown why that rejection happened.\n\nDoors I thought I wanted to walk through were shut, only to have the right ones swing open.\n\nThe kind that aligned with my growth, my values, and my happiness.\n\nAt first, it stung. It hurt deeply. But now, when things don’t go as planned, I don’t panic.\n\nI don’t question my worth. I sit back, breathe, and trust. The Universe knows.\n\nI know there's another plan waiting. Something bigger, better, and just for me.\n\nTo anyone feeling the weight of rejection: trust that the closed doors are protecting you from something you can’t see right now.\n\nYour path is being cleared for something even more beautiful.",
+		"engagement": 206
+	},
+	{
+		"text": "To everyone who's still looking for a job...\n\nI see you. I feel you. \ud83d\udc94\n\nEvery rejection email feels like a punch in the gut, and every 'We'll get back to you' sounds more like 'You'll never hear from us.'\n\nBut I want you to know, you're not alone in this. \ud83c\udf38\n\nAccording to a study, 80% of jobseekers struggle with anxiety and self-doubt during their search. It's normal to feel lost, but it's not the end.\n\nTake breaks, breathe, and remember, this doesn't define you. Your worth is not tied to an offer letter. \ud83d\udca5\n\nYour mental health matters more than any job.",
+		"engagement": 899
+	},
+	{
+		"text": "Sometimes, we forget that a company’s brand name doesn’t define someone’s talent. It’s easy to get caught up in the 'big company = big talent' mindset, but that's not always the case.\n\nI’ve had the privilege of working with people from smaller companies (lesser known) who blow me away with their skills and dedication. They don’t need a fancy title or a famous brand behind them to prove their worth.\n\nI've seen the other side too—people in top-tier companies feeling lost, overwhelmed, or stuck, even though the world sees them as 'successful'.\n\nLet’s stop attaching someone’s value to the company they work for. Freshers especially need to hear this—skills are what matter, not the size of the company behind them.\n\nAt the end of the day, happiness and growth don’t come from a brand name, they come from doing what you love and constantly improving your craft.",
+		"engagement": 166
+	},
+	{
+		"text": "So when I left a toxic work environment, I told my manager a simple thing and felt so good \ud83d\ude2f\n\nI just said-\n\n'Hope your son gets a manager like you.\nI hope that the manager behaves the same way as you did with me.\nThank you.'\n\nNow tell me 1 thing-\n\nShe always said that she was a great manager.\nWhy will she get offended?\n\nI just told her that I wish her son would get a manager like she was.\n\nIf you felt bad, then that means you were a bad manager and now you know it. \ud83e\b80\n\nIf you feel good, then take it as a blessing for your son and you'll really want someone to treat your son/daughter in the same way.\n\nShe cannot be even angry with me else it'll prove that she was not a 'great' manager.\n\nMuskan - 1\nManager - 0\n\nMuskan -> Aura +100000000\n\n(Fictional message unfortunately :(\n)\n\nHope you all become the people that your sons/daughters will like to work under \ud83d\ude4f\n\nThere are a lot of bad people/things, bring a small change and break the chain :)",
+		"engagement": 1111
+	}
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[
+    {
+        "text": "Just saw a LinkedIn Influencer with 'Organic Growth' written in the profile with 65K+ followers claiming that he can help you in growing your platform, copying the posts from other influencers.",
+        "engagement": 90,
+        "line_count": 2,
+        "language": "Hinglish",
+        "tags": [
+            "Influencer",
+            "Growth"
+        ]
+    },
+    {
+        "text": "Jobseekers, this one\u2019s for you.\n Every application, every interview, every follow-up\u2026 the pressure is immense.\n And I know what you're thinking: Am I not good enough? \n But let me tell you, this isn\u2019t about you or your skills. It\u2019s about a broken system where 60% of applicants never hear back. \n Your mental health is not worth sacrificing for a system that doesn\u2019t acknowledge your worth. \n Please remember, taking care of yourself is the real priority. \n Your dream job will come, but for now, breathe. \ud83c\udf3b",
+        "engagement": 347,
+        "line_count": 8,
+        "language": "English",
+        "tags": [
+            "Job Search",
+            "Mental Health"
+        ]
+    },
+    {
+        "text": "Looking for jobs on LinkedIn is like online dating: Full of promises, but in the end, you\u2019re just left ghosted.",
+        "engagement": 109,
+        "line_count": 1,
+        "language": "English",
+        "tags": [
+            "LinkedIn",
+            "Job Search"
+        ]
+    },
+    {
+        "text": "LinkedIn scams be like: 'Congratulations, you've been selected for a role you didn\u2019t even apply for!' \n The catch? Pay Rs. 50,000 for the honor.",
+        "engagement": 115,
+        "line_count": 2,
+        "language": "Hinglish",
+        "tags": [
+            "LinkedIn",
+            "Scams"
+        ]
+    },
+    {
+        "text": "sapne dekhna achi baat hai,\nlekin job ka sapna dekh ke 'interested' likhna,\nyeh toh achi baat nahi hai na?",
+        "engagement": 545,
+        "line_count": 3,
+        "language": "Hinglish",
+        "tags": [
+            "Sapne",
+            "Job Search"
+        ]
+    },
+    {
+        "text": "Next time when I'll be reading some LinkedIn Influencer's story, I am starting from the last line.\nIf there's a link attached to it, it's most probably a fake one.\nSaves me time!",
+        "engagement": 188,
+        "line_count": 3,
+        "language": "Hinglish",
+        "tags": [
+            "LinkedIn",
+            "Influencer"
+        ]
+    },
+    {
+        "text": "Every time I poured my heart into 5-6 rounds of interviews and faced rejection, it felt like a punch in the gut. The sleepless nights, the endless preparation, all for nothing.\n\nBut looking back, I realize it wasn\u2019t nothing. It was the Universe\u2019s way of saying, \u201cNot this one, something better is on the way.\u201d\n\nEvery single time, I\u2019ve been shown why that rejection happened.\n\nDoors I thought I wanted to walk through were shut, only to have the right ones swing open.\n\nThe kind that aligned with my growth, my values, and my happiness.\n\nAt first, it stung. It hurt deeply. But now, when things don\u2019t go as planned, I don\u2019t panic.\n\nI don\u2019t question my worth. I sit back, breathe, and trust. The Universe knows.\n\nI know there's another plan waiting. Something bigger, better, and just for me.\n\nTo anyone feeling the weight of rejection: trust that the closed doors are protecting you from something you can\u2019t see right now.\n\nYour path is being cleared for something even more beautiful.",
+        "engagement": 206,
+        "line_count": 14,
+        "language": "English",
+        "tags": [
+            "Growth",
+            "Career"
+        ]
+    },
+    {
+        "text": "To everyone who's still looking for a job...\n\nI see you. I feel you. \ud83d\udc94\n\nEvery rejection email feels like a punch in the gut, and every 'We'll get back to you' sounds more like 'You'll never hear from us.'\n\nBut I want you to know, you're not alone in this. \ud83c\udf38\n\nAccording to a study, 80% of jobseekers struggle with anxiety and self-doubt during their search. It's normal to feel lost, but it's not the end.\n\nTake breaks, breathe, and remember, this doesn't define you. Your worth is not tied to an offer letter. \ud83d\udca5\n\nYour mental health matters more than any job.",
+        "engagement": 899,
+        "line_count": 10,
+        "language": "English",
+        "tags": [
+            "Job Search",
+            "Mental Health"
+        ]
+    },
+    {
+        "text": "Sometimes, we forget that a company\u2019s brand name doesn\u2019t define someone\u2019s talent. It\u2019s easy to get caught up in the 'big company = big talent' mindset, but that's not always the case.\n\nI\u2019ve had the privilege of working with people from smaller companies (lesser known) who blow me away with their skills and dedication. They don\u2019t need a fancy title or a famous brand behind them to prove their worth.\n\nI've seen the other side too\u2014people in top-tier companies feeling lost, overwhelmed, or stuck, even though the world sees them as 'successful'.\n\nLet\u2019s stop attaching someone\u2019s value to the company they work for. Freshers especially need to hear this\u2014skills are what matter, not the size of the company behind them.\n\nAt the end of the day, happiness and growth don\u2019t come from a brand name, they come from doing what you love and constantly improving your craft.",
+        "engagement": 166,
+        "line_count": 8,
+        "language": "English",
+        "tags": [
+            "Skills",
+            "Talent"
+        ]
+    },
+    {
+        "text": "So when I left a toxic work environment, I told my manager a simple thing and felt so good \ud83d\ude2f\n\nI just said-\n\n'Hope your son gets a manager like you.\nI hope that the manager behaves the same way as you did with me.\nThank you.'\n\nNow tell me 1 thing-\n\nShe always said that she was a great manager.\nWhy will she get offended?\n\nI just told her that I wish her son would get a manager like she was.\n\nIf you felt bad, then that means you were a bad manager and now you know it. \ud83e\b80\n\nIf you feel good, then take it as a blessing for your son and you'll really want someone to treat your son/daughter in the same way.\n\nShe cannot be even angry with me else it'll prove that she was not a 'great' manager.\n\nMuskan - 1\nManager - 0\n\nMuskan -> Aura +100000000\n\n(Fictional message unfortunately :(\n)\n\nHope you all become the people that your sons/daughters will like to work under \ud83d\ude4f\n\nThere are a lot of bad people/things, bring a small change and break the chain :)",
+        "engagement": 1111,
+        "line_count": 18,
+        "language": "Hinglish",
+        "tags": [
+            "Manager",
+            "Workplace"
+        ]
+    }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navneet 1st version processed_post 
+[
+    {
+        "text": "How I got 5000% impressions?\n\n\ud83e\udd74Hmm\n\n\u2b50So, when I installed LinkedIn and started using it, I was mind blown the content which came up to my feed were top notch.\n\n\u2b50They had immense value that I couldn't ever dare to consume.\n\n\u2b50When I looked up the comments I wasn't able to guess the terms meaning.\n\n\u2b50I thought that I wasn't capable enough to Consume LinkedIn.\n\n\u2b50I compared it with Instagram and Facebook.\n\n\u2b50Time passed and I started consuming LinkedIn, but never dared to comment or post anything because I was scared.\n\n\u2b50Around 10 days from now I found a LinkedIn content creator who inspired enough from her post that I did my first Carousel and then started commenting and engaging.\n\n\u2b50Though as of now I don't know everything I am still learning and hustling.\n\n\u2b50After posting for a few days, I was mind blown to see my impression boosting for about 5000%.\n\nQuiet impressive \ud83d\ude1c\n\nI know \ud83d\ude0a\n\nFollow Navneet Kumar - SEO WIZARD \ud83e\ude84 for daily bombs packed with value dropping at 11:55 AM.---------\nSigning off\nNavneet - The letters \u2709\ufe0f guy",
+        "engagement": 20,
+        "line_count": 17,
+        "language": "Hinglish",
+        "tags": [
+            "SEO",
+            "Carousel"
+        ]
+    },
+    {
+        "text": "That's what I came on the platform to read.\n\nI want to read raw and vulnerable stories.\n\nIt takes guts to share your failures ( I too have FEATURED them on my LinkedIn profile )\n\nOwn your failures.\nTalk about them in public.\n\nThat's the only way to liberate from it.\nThat's the only way to move away from it.\n\nHat's off Anu\nYou dropped this \ud83d\udc51 ---------\nSigning off\nNavneet - The letters \u2709\ufe0f guy",
+        "engagement": 50,
+        "line_count": 10,
+        "language": "Hinglish",
+        "tags": [
+            "Failures",
+            "Vulnerability"
+        ]
+    },
+    {
+        "text": "That's what I came on the platform to read.\n\nI want to read raw and vulnerable stories.\n\nIt takes guts to share your failures ( I too have FEATURED them on my LinkedIn profile )\n\nOwn your failures.\nTalk about them in public.\n\nThat's the only way to liberate from it.\nThat's the only way to move away from it.\n\nHat's off Anu\nYou dropped this \ud83d\udc51 ---------\nSigning off\nNavneet - The letters \u2709\ufe0f guy",
+        "engagement": 100,
+        "line_count": 10,
+        "language": "English",
+        "tags": [
+            "Failures",
+            "Vulnerability"
+        ]
+    },
+    {
+        "text": "Finally 1.4K people are following this nerd \ud83e\udd13\n\nCelebrated it with some momos ---------\nSigning off\nNavneet - The letters \u2709\ufe0f guy",
+        "engagement": 20,
+        "line_count": 5,
+        "language": "Hinglish",
+        "tags": [
+            "Nerd",
+            "Letters"
+        ]
+    },
+    {
+        "text": "Swish is a rapid food delivery platform that redefines convenience and speed.\n\nThey deliver food in just 10 minutes.\n\nThe company has such a cool culture ( have been stalking them ). So, these are some specs, I created for them.\n\nFeel free to use, Swish\n\nAkash || Ujjwal || Aniket || ---------\nSigning off\nNavneet - The letters \u2709\ufe0f guy",
+        "engagement": 15,
+        "line_count": 6,
+        "language": "Hinglish",
+        "tags": [
+            "Food Delivery",
+            "Design"
+        ]
+    },
+    {
+        "text": "The fastest way to grow on LinkedIn is to leave LinkedIn.\n\nMost people scroll through LinkedIn all day.\n\n-> Engaging with others\n-> Creating content\n-> DMing others\n\nThey keep hitting the tree with their axe.\nbut here's the catch.\nThey barely sharpen it.\n\nMy dear friends.\n\nIt's time to look back and start focusing on your skills too.\n\n-> Have a fixed time for LinkedIn.\n-> Work on your skills daily.\n\nAfter doing 1-2 pomo sessions for LinkedIn.\n\nI get into Copywriting and Copywork.\nAnd i would suggest you the same.\n\n-> Practice your craft daily.\nDon't just focus on LinkedIn.---------\nSigning off\nNavneet - The letters \u2709\ufe0f guy",
+        "engagement": 40,
+        "line_count": 16,
+        "language": "Hinglish",
+        "tags": [
+            "Copywriting",
+            "LinkedIn"
+        ]
+    },
+    {
+        "text": "Most people quit in 90 days.\n\nI have been consistently creating content on LinkedIn for the past 106 days.\n\nLet's look at some results\n\nThe results ( In the last 90 days )\n\n-> made many great friends.\n-> 15 Comments per post.\n-> Top 23% worldwide.\n-> 22,840 Impressions.\n365 impressions per post\n-> 505 Profile Views.\n-> 1349 Followers",
+        "engagement": 90,
+        "line_count": 10,
+        "language": "English",
+        "tags": [
+            "Content Creation",
+            "LinkedIn"
+        ]
+    },
+    {
+        "text": "The fastest way to grow on LinkedIn is to leave LinkedIn.\n\nMost people scroll through LinkedIn all day.\n\n-> Engaging with others\n-> Creating content\n-> DMing others\n\nThey keep hitting the tree with their axe.\nbut here's the catch.\nThey barely sharpen it.\n\nMy dear friends.\n\nIt's time to look back and start focusing on your skills too.\n\n-> Have a fixed time for LinkedIn.\n-> Work on your skills daily.\n\nAfter doing 1-2 pomo sessions for LinkedIn.\n\nI get into Copywriting and Copywork.\nAnd i would suggest you the same.\n\n-> Practice your craft daily.\nDon't just focus on LinkedIn.---------\nSigning off\nNavneet - The letters \u2709\ufe0f guy",
+        "engagement": 60,
+        "line_count": 18,
+        "language": "Hinglish",
+        "tags": [
+            "Copywriting",
+            "LinkedIn"
+        ]
+    },
+    {
+        "text": "I think reading \"Elon Musk\" by Walter Issacson has just changed my life.\n\nHere's how\n\nIt was one of my dream books ( cause I have a crush on Elon, don't tell anyone )\n\nI have been doing good reading it, For the last few days I am doing 50,70 and even 100 pages +\n\nReading the book is making me live like Elon, i find myself re-speaking his dialogues.\n\nand even thinking like him.\n\nOut of a few things that I learnt from him, there is one thing that's waking me up at night.\n\nIt's about his extreme risk taking abilities.\n\nCome on.. that man came from nothing and is acing\n\n-> Space X ( caught a rocket using chopsticks \ud83e\udd62 )\n-> Tesla ( Built a robot and a car without steering )\n-> Neuralink ( direct data transfer from brain to machine )\n-> xAI & X\n\nWhat I do on here on LinkedIn has absolutely NO risk when compared to him.\n\nI have been an asshole, taking on conservative routes for things and not taking risks.\n\nFor example, I know traditional resumes are broken, so i did start creating on LinkedIn but there is a whole another level.\n\nand you know what's that?\n\nPitching to the dream companies in public.\n\nCreate something for them and ask them out in the public.\nIs it easy? No\nWill it work? Can't say\nIs it exciting? I bet it is\nWhat if it doesn't work? and what if it does\n\nThinking about it.\n\nI have less to lose and a lot to gain.\n\nTried resumes -> Failed miserably\nTried DMs and E-mails -> Failed miserably\nTried Content -> Too slow for my goals\nPitching in public -> Gonna be fun. let's see\n\nso, taking inspiration from Elon i will be out there creating decks for companies and pitching them in public.\n\nTo all my friends out there.\n\nNOW IS THE TIME TO TAKE RISKS. JUST DO IT\n\n---------\nSigning off\nNavneet - The letters \u2709\ufe0f guy",
+        "engagement": 200,
+        "line_count": 32,
+        "language": "Hinglish",
+        "tags": [
+            "Elon Musk",
+            "Risk Taking"
+        ]
+    },
+    {
+        "text": "It's Swish this time.\n\nThey raised a $14M in series A. That's when my eyes went on the company.\n\nWorking on some specs for them.\n\nCouldn't even access their website as they don't serve in my state.\n\nCurrently in 8 places in Banglore ( but they got some guts, it could be huge )\n\nDid some research on Crunchbase also, this is going to be a direct threat to Swiggy and Zomato.\n\nThey have critics with their valid points ( as every other company has )\nBut, these guys are cool.\n\n-> 10-minutes instant food delivery.\n-> Freshness with convenience.\n-> They also gave Indian team jerseys with their orders.\n-> The founders came from a whole another industry\n\nUpon further researching I saw they have a few dope testimonials on YouTube.\n\nThey have installed systems for faster delivery.\n\nWorking on some taglines, need to tweak them a little. I better make them coooool\n\nMore details by tomorrow\n\nPS: Pardon my handwriting\nPPS: What do you think about Swish\n\n----\n\nGreat work Swish Ujjwal Aniket Saran\n\n---------\nSigning off\nNavneet - The letters \u2709\ufe0f guy",
+        "engagement": 20,
+        "line_count": 26,
+        "language": "Hinglish",
+        "tags": [
+            "Food Delivery"
+        ]
+    },
+    {
+        "text": "3.2.1.....go\n\nHere's my story of not even being able to run 200 metres to running my first marathon of 21 Kms\n\nThe story started when in the 07th month of 2024, I was stopped from donating blood due to my low hemoglobin count.\n\nI was furious.\n\nSo, much that I started documenting my journey at navneet[dot]life/health\n\nThe easiest one was to start running.\n\nand it didn't come easy to me.\nI went through hell ( as goggins says )\n\n-> I ran naked.\n-> I ran barefoot.\n-> I ran in slippers.\n-> I ran while fasting.\n-> I ran when it rained.\n-> I ran in cold at 3 am.\n-> I ran when everyone else was sleeping.\n\nI ran and ran and ran.\n\n( now averaging 5 kms per day )\n\nThus it took me about 7 months to run my first marathon and to complete it.\n\nIt was lucknow half marathon of 21Kms.\n\nProud to say that I am NOW a marathon runner.\n\nSorry for not being active on the platform.\n\nPS: All video documentation links are in the comments.\n\nPPS: Do you have such a story. If yes share in the comments.\n\n---------\nSigning off\nNavneet - The letters \u2709\ufe0f guy",
+        "engagement": 200,
+        "line_count": 23,
+        "language": "English",
+        "tags": [
+            "Marathon",
+            "Running"
+        ]
+    },
+    {
+        "text": "Is your focus always diverted and you end up your day without making much progress?\n\nThen you need to read this. \ud83d\udc47\n\nBut why??\n\n\ud83d\udc49A 19 y/o boy found it and it completely transformed his life ( and I am not even kidding, cause he wrote this post )\n\nEarlier I used to switch between tasks and end up doing very little at the end of the day.\n\nthus sleeping while abusing myself.\n\nEverything changed when I gave the \"Pomodoro Technique\" a casual try.\n\nI even had used it earlier but it didn't seem to work for me.\n\nbut this time, it proved to be a gamechanger.\n\nLinkedIn commenting -> Just one pomo session\n\nReading books -> Broke into pomo sessions. so, my focus is always on books.\n\nWhy it works?\n\n\ud83d\udc49 When a timer is on, you know that it's counting the time in your study/work part.\n\nso, cheating with it isn't easy. you will have to go through a lot of resistance.\n\nYou can even compete yourself to see the number of Pomos you did the previous day/week\n\nPlease \ud83e\udd7a I beg, If you trust me even an inch.\n\nDo give Pomodoro a try.\n\n-> On laptop works.\n-> On mobile phone works.\n-> Physical devices work too.\n\nIt has the potential to change your life.\n\nPS: Please prove me wrong that it doesn't work ( even for that you will have to try it once )\n\nPPS: I have recommended some software I have used in the comments.\n\n---------\nSigning off\nNavneet - The letters \u2709\ufe0f guy",
+        "engagement": 100,
+        "line_count": 25,
+        "language": "Hinglish",
+        "tags": [
+            "Productivity",
+            "Pomodoro Technique"
+        ]
+    },
+    {
+        "text": "It was 29th Nov. 2024\n\nI was celebrating my 19th birthday.\n\nI was sad as I failed to make a business for myself and travel the world.\nI also quit LinkedIn content creation twice.\n\nHaving burned all the boats, I had no other way than to give Linkedin one more try.\n\nI didn't wait for 01st of January.\n\nI committed myself to creating on LinkedIn for at least one year before I came to any conclusion.\n\nHence, I restarted my LinkedIn journey for the 3rd time.\n( and this time it was easier than the last two )\n\nThe results ( In months )\n\n-> Made many great friends.\n-> 19.66 Comments per post.\n-> Top 24% worldwide.\n-> 18,524 Impressions.\n-> 493 Profile Views.\n-> Top 25% India.\n-> 305 Followers.\n-> 50+ Posts.\n\nWho cares. Who wins?\nI am here to play & keep playing.\n\nI will keep going!!!!!!!!!\nThanks for your kind comments, yesterday.\n\nPS: Share 1 small win you had this year.\n\n---------\nSigning off\nNavneet - The letters \u2709\ufe0f guy",
+        "engagement": 50,
+        "line_count": 22,
+        "language": "English",
+        "tags": [
+            "Business",
+            "LinkedIn"
+        ]
+    }
+]
