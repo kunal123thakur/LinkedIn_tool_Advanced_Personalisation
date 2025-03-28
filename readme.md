@@ -5,7 +5,7 @@ https://github.com/user-attachments/assets/65c2108c-ebab-4767-a654-7b9b68f7a477
 
 
 ## Overview
-This is an **Advanced RAG-based LinkedIn Post Generator tool that inherits your style of creating** that learns the writing style of a targeted content creator and generates posts similar to their style which saves them a lot of time . The tool preprocesses past posts, extracts metadata, and uses few-shot learning to maintain writing consistency. It also offers customization options for **topic, length, and language**.
+This is an **Advanced RAG-based LinkedIn Post Generator tool that Inherits your Style of Creating Content** that learns the writing style of a targeted content creator and generates posts similar to their style which saves them a lot of time . The tool preprocesses past posts, extracts metadata, and uses few-shot learning to maintain writing consistency. It also offers customization options for **topic, length, and language**.
 
 ## Features
 - **Mimics writing style** of a targeted LinkedIn content creator.
