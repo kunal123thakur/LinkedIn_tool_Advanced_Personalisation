@@ -1,5 +1,10 @@
 # LinkedIn Post Generator Tool
 
+
+
+https://github.com/user-attachments/assets/65c2108c-ebab-4767-a654-7b9b68f7a477
+
+
 ## Overview
 This is an **Advanced RAG-based LinkedIn Post Generator** that learns the writing style of a targeted content creator and generates posts similar to their style. The tool preprocesses past posts, extracts metadata, and uses few-shot learning to maintain writing consistency. It also offers customization options for **topic, length, and language**.
 
@@ -10,6 +15,12 @@ This is an **Advanced RAG-based LinkedIn Post Generator** that learns the writin
 - **Supports English and Hinglish** (a mix of Hindi and English in English script).
 - **Streamlit-based UI** for ease of use.
 - **Preprocessing and metadata extraction** for better tagging and categorization.
+
+## I want to credit my friend Navneet for these content of his on top of which i have personalised my LinkedIn tool 
+## These are some of his work from where I took my contents
+![Screenshot 2025-03-28 201849](https://github.com/user-attachments/assets/e47b60e6-8719-46fb-a639-61afe243b4b2)
+![Screenshot 2025-03-28 201921](https://github.com/user-attachments/assets/07f0e38e-efe3-4442-bc5c-d6e336094890)
+
 
 ## Project Structure
 ```
@@ -57,6 +68,8 @@ C:.
 ```sh
  streamlit run main.py
 ```
+![Screenshot 2025-03-28 201513](https://github.com/user-attachments/assets/739f202b-99a5-411e-8bff-ba83da23f8f3)
+
 
 ## How It Works
 ### 1. **Preprocessing & Metadata Extraction**
